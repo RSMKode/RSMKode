@@ -1,7 +1,7 @@
 # Hi there 👋 i'm Roger Sancho | **RSMKode**
 I am a nurse in professional transition into the field of programming and technology.
 Passionate about UX/UI design and front-end development.
-- 🔭 I’m currently working on my web portfolio & Fandom Comic Scraper.
+- 🔭 I’m currently working on my [web portfolio](https://github.com/RSMKode/portfolio-dev)  & [Fandom Comic Scraper](https://github.com/RSMKode/fandom-comic-scraper)
 - 🌱 I’m currently learning Node.js, React, Python and web testing.
 <!--
 - 👯 I’m looking to collaborate on ...
