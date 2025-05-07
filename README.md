@@ -16,6 +16,7 @@ Passionate about UX/UI design and front-end development.
 -->
 
 ## 🌐 Socials:
+[![Personal Portfolio: RSMKode](https://img.shields.io/badge/Web-red?logo=web&logoColor=white)](https://linkedin.com/in/roger-sancho) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roger-sancho) 
 [![rogersanchom@gmail.com](https://img.shields.io/badge/rogersanchom@gmail.com-red?logo=gmail&logoColor=white)](mailto:rogersanchom@gmail.com) 
 
