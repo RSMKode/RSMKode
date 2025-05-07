@@ -1,10 +1,12 @@
 # Hi there 👋 i'm Roger Sancho | **RSMKode**
 I am a nurse in professional transition into the field of programming and technology.
 Passionate about UX/UI design and front-end development.
-- 💼 I’m currently working on: [IES Abastos Eramsus+](https://github.com/RSMKode/ies-abastos-erasmus)
+- 💼 I’m currently working on: [ExpertOne](https://expertone.es)
+<!--
 - 🔭 Other projects i'm working on: [Web Portfolio](https://github.com/RSMKode/portfolio-dev)  & [Fandom Comic Scraper](https://github.com/RSMKode/fandom-comic-scraper)
 - 🌱 I’m currently learning TypeScript, Angular, Ionic & Laravel.
 - 🌱 Other tecnologies i'm learning Node.js, React, Python and web testing.
+-->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -29,8 +31,10 @@ Passionate about UX/UI design and front-end development.
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+<!--
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
+-->
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) 
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white) 
@@ -41,7 +45,9 @@ Passionate about UX/UI design and front-end development.
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+<!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+-->
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
