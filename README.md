@@ -1,5 +1,5 @@
 # Hi there 👋 i'm Roger Sancho | **RSMKode**
-I am a nurse in professional transition into the field of programming and technology.
+I am a nurse that made professional transition into the field of programming and technology.
 Passionate about UX/UI design and front-end development.
 - 💼 I’m currently working on: [ExpertOne](https://expertone.es)
 <!--
